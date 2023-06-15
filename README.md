@@ -1,30 +1,30 @@
 # ChatGPT-Bot
 - 利用串接 ChatGPT API 製作出聊天程式
 - 實作利用 GET / POST request 去取得回應資料 
-- 實作利用 python openai 模組去取得回應資料
+- 實作利用 Python openai 模組去取得回應資料
 
 ## 取得 secret key
 登入 OpenAI 官網 https://openai.com/
-![image](https://github.com/mrisland112/ChatGPT-bot/assets/132718430/6cb647b7-7443-4b13-a6ae-cc2e590798da)
+![image](https://github.com/mrisland112/ChatGPT-Bot/assets/28065019/215fe0e7-1d64-4765-8942-e8286db5ead0)
 
 選取 API block，進入 OpenAI platform
-![image](https://github.com/mrisland112/ChatGPT-bot/assets/132718430/7abd90d0-b6bb-4722-8cec-b52e264a0e05)
+![image](https://github.com/mrisland112/ChatGPT-Bot/assets/28065019/ec8e10ea-33c4-457b-bf05-200ce6c79fab)
 
 建立 API key，輸入應用程式名稱 create 後，會得到 secret key，需保存下來之後會用到
-![image](https://github.com/Nashexplorer/ChatGPT-bot/assets/132718430/2df79239-e987-48b5-9e1a-ddefaed5a2c8)
+![image](https://github.com/mrisland112/ChatGPT-Bot/assets/28065019/acb5fb6f-40c0-43ac-8a98-edf2a69cb2e5)
 
 
 ## 參考 API 使用方式來源
 在 OpenAI platform 選 API reference，可以看到詳細的 API 的開發文件
 https://platform.openai.com/docs/api-reference
-![image](https://github.com/mrisland112/ChatGPT-bot/assets/132718430/2548eab2-34d6-4608-ad34-a4d1ef034cdf)
+![image](https://github.com/mrisland112/ChatGPT-Bot/assets/28065019/b175e6ab-712d-4859-9f6f-fc02b137ee02)
 
 查看 Models 資訊，可以參考 Models 部分的內容 [GET]
-![image](https://github.com/mrisland112/ChatGPT-bot/assets/132718430/be6efc84-d997-4a6d-9718-f9b833e3d3b5)
+![image](https://github.com/mrisland112/ChatGPT-Bot/assets/28065019/701c29ee-8ea3-42c8-8613-bdeb2d7fc2b9)
 
 
 使用 Completions 功能，可以參考 Completions 部分的內容 [POST]
-![image](https://github.com/mrisland112/ChatGPT-bot/assets/132718430/a6411aa8-9e85-4c81-80e5-78a4cbaa2c5a)
+![image](https://github.com/mrisland112/ChatGPT-Bot/assets/28065019/a7ffb180-d571-4046-81f4-40a33cca17bc)
 
 
 ##開發環境
