@@ -66,5 +66,5 @@ code-cushman-001
 
 #實測結果
 可透過調整 max_tokens，設定合適回傳字的數量
-![image](https://github.com/Nashexplorer/ChatGPT-bot/assets/132718430/fb46cc34-6593-48ee-937b-0975caf5d4c9)
+![image](https://github.com/mrisland112/ChatGPT-Bot/assets/28065019/a2af2e97-211c-4922-a546-1d94beaa21a2)
 
