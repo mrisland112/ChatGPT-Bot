@@ -16,6 +16,7 @@
 
 ## 參考 API 使用方式來源
 在 OpenAI platform 選 API reference，可以看到詳細的 API 的開發文件
+
 https://platform.openai.com/docs/api-reference
 ![image](https://github.com/mrisland112/ChatGPT-Bot/assets/28065019/b175e6ab-712d-4859-9f6f-fc02b137ee02)
 
