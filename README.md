@@ -19,21 +19,21 @@
 https://platform.openai.com/docs/api-reference
 ![image](https://github.com/mrisland112/ChatGPT-Bot/assets/28065019/b175e6ab-712d-4859-9f6f-fc02b137ee02)
 
-查看 Models 資訊，可以參考 Models 部分的內容 [GET]
+- 查看 Models 資訊，可以參考 Models 部分的內容 [GET]
 ![image](https://github.com/mrisland112/ChatGPT-Bot/assets/28065019/701c29ee-8ea3-42c8-8613-bdeb2d7fc2b9)
 
 
-使用 Completions 功能，可以參考 Completions 部分的內容 [POST]
+- 使用 Completions 功能，可以參考 Completions 部分的內容 [POST]
 ![image](https://github.com/mrisland112/ChatGPT-Bot/assets/28065019/a7ffb180-d571-4046-81f4-40a33cca17bc)
 
 
-##開發環境
+## 開發環境
 ```
 pip install requests
 pip install openai
 ```
 
-##可使用模型
+## 可使用模型
 ```
 # GPT-3.5
 gpt-3.5-turbo
@@ -64,7 +64,7 @@ code-cushman-002
 code-cushman-001
 ```
 
-#實測結果
+## 實測結果
 可透過調整 max_tokens，設定合適回傳字的數量
 ![image](https://github.com/mrisland112/ChatGPT-Bot/assets/28065019/a2af2e97-211c-4922-a546-1d94beaa21a2)
 
